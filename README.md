@@ -2,7 +2,7 @@
 ## Installation:
 - clone repository:
 ```sh
-
+$ git clone https://github.com/azaycev/ChannelMatcher.git
 ```
 - install packages:
 ```sh
