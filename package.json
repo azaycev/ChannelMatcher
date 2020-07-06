@@ -1,0 +1,16 @@
+{
+  "name": "chanelmatcher",
+  "version": "1.0.0",
+  "description": "Helps to match chanels in tv logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cyrillic-to-translit-js": "^3.1.0",
+    "string-similarity": "^4.0.1",
+    "xml2js": "^0.4.23"
+  }
+}
